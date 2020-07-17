@@ -9,9 +9,9 @@
 包含两种方式  
 1.在word中定义  
 （需要表名和表格一一对应，第一行：表名：tableName   ；第二行：字段表格）  
- 参考：[wordMysql.docx](wordMysql.docx)
+  参考：[wordMysql.docx](wordMysql.docx)  
 2.在excel中定义  
-参考： [excelMysql.xlsx](/excelMysql.xlsx)
+  参考： [excelMysql.xlsx](/excelMysql.xlsx)
 
 # 1. word表定义mysql结构
 ## 格式：位于sheet1，竖排显示 
