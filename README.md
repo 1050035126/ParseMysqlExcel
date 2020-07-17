@@ -1,8 +1,17 @@
 # ParseMysqlExcel
+# 运行环境 
+1. python3.6
+2. 所需python库:  
+   i. python-docx 
+
+# 说明
 解析word或excel中的mysql的表结构定义，输出sql语句  
 包含两种方式  
-1.在word中定义（需要表名和表格一一对应，第一行：表名：tableName   ；第二行：字段表格）  
-2.在excel中定义
+1.在word中定义  
+（需要表名和表格一一对应，第一行：表名：tableName   ；第二行：字段表格）  
+ 参考：wordMysql.docx  
+2.在excel中定义  
+参考： excelMysql.xlsx
 
 # 1. word表定义mysql结构
 ## 格式：位于sheet1，竖排显示 
